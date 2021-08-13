@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmutschler0501
 - 👀 I’m interested in ...Learning/Connecting/Building
 - 🌱 I’m currently learning ...HTML
-- 💞️ I’m looking to collaborate on ...ANYTHING
+- 💞️ I’m looking to collaborate on meaningful, groundbreaking projects that can be a vessel for positive change
 - 📫 How to reach me ...joshmutschler@gmail.com
 
 <!---
